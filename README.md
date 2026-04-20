@@ -20,6 +20,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-o
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
+<img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
